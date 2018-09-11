@@ -1,0 +1,50 @@
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.task{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.dropdown-menu{
+    width: 280px;
+}
+
+.container-1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.container-2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.checkInput{
+    width: 150px;
+}
+
+
+
+.resultContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.taskContent{
+    text-align: center;
+    margin-top: 30px;
+
+}

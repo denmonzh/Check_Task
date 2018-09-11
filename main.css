@@ -1,0 +1,35 @@
+#testID{
+    margin-top: 50px;
+    text-align: center;
+    background-color: yellow;
+}
+
+#textId{
+    font-size: 50px;
+    font-family: Georgia, sans-serif;
+    color: green;
+}
+
+.container{
+    text-align: center;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+.lala{
+    font-size: 30px;
+}
+
+#pushTagName{
+    margin-top: 40px;
+}
+
+#addLiTag{
+    margin-top: 30px;
+}
+
+#addArrItems{
+    margin-top: 30px;
+}
